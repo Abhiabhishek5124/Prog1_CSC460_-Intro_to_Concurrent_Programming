@@ -1,0 +1,198 @@
+Part #1
+
+Actual count is -18
+Unsynchronized count is -18
+
+
+Part #2
+
+Please enter a path to an input file: in1.txt
+
+Total is 4
+***************
+
+3 classA objects
+0 classB objects
+1 classC objects
+0 classD objects
+Total is 8
+***************
+
+3 classA objects
+2 classB objects
+2 classC objects
+1 classD objects
+Class B Thread-110 is INCrementing
+Class D Thread-111 is INCrementing
+Class D Thread-112 is INCrementing
+Class D Thread-106 is INCrementing
+Class B Thread-107 is INCrementing
+Class B Thread-108 is INCrementing
+Class C Thread-102 is INCrementing
+Class A Thread-101 is INCrementing
+Class A Thread-109 is INCrementing
+Class A Thread-113 is INCrementing
+Class B Thread-104 is INCrementing
+Class A Thread-100 is INCrementing
+Class A Thread-103 is INCrementing
+Class B Thread-114 is INCrementing
+Total is 15
+***************
+
+5 classA objects
+5 classB objects
+2 classC objects
+3 classD objects
+Class A Thread-115 is INCrementing
+Class A Thread-116 is INCrementing
+Class C Thread-117 is INCrementing
+Class D Thread-118 is INCrementing
+Total is 19
+***************
+
+7 classA objects
+5 classB objects
+3 classC objects
+4 classD objects
+Class A Thread-119 is INCrementing
+Class C Thread-105 is INCrementing
+Class A Thread-115  Preparing to sleep for 1200 milliseconds
+Class B Thread-108  Preparing to sleep for 1934 milliseconds
+Class B Thread-104  Preparing to sleep for 500 milliseconds
+Class D Thread-112  Preparing to sleep for 33 milliseconds
+Class A Thread-100  Preparing to sleep for 322 milliseconds
+Class B Thread-114  Preparing to sleep for 2300 milliseconds
+Class A Thread-113  Preparing to sleep for 789 milliseconds
+Class C Thread-105 Preparing to sleep for 1200 milliseconds
+Class A Thread-119  Preparing to sleep for 225 milliseconds
+Class A Thread-109  Preparing to sleep for 455 milliseconds
+Class C Thread-117 Preparing to sleep for 250 milliseconds
+Class A Thread-101  Preparing to sleep for 2134 milliseconds
+Class D Thread-111  Preparing to sleep for 123 milliseconds
+Class A Thread-103  Preparing to sleep for 3432 milliseconds
+Class D Thread-118  Preparing to sleep for 1211 milliseconds
+Class B Thread-110  Preparing to sleep for 566 milliseconds
+Class D Thread-106  Preparing to sleep for 1145 milliseconds
+Class B Thread-107  Preparing to sleep for 750 milliseconds
+Class A Thread-116  Preparing to sleep for 500 milliseconds
+Class C Thread-102 Preparing to sleep for 1550 milliseconds
+Class D Thread-112 is now AWAKE
+Class D Thread-112 is DECrementing
+Class D Thread-112 EXITING!!!
+Class D Thread-111 is now AWAKE
+Class D Thread-111 is DECrementing
+Class D Thread-111 EXITING!!!
+Class A Thread-119 is now AWAKE
+Class A Thread-119 is DECrementing
+Class A Thread-119 EXITING!!!
+Class C Thread-117 is now AWAKE
+Class C Thread-117 is DECrementing
+Class C Thread-117 EXITING!!!
+Class A Thread-100 is now AWAKE
+Class A Thread-100 is DECrementing
+Class A Thread-100 EXITING!!!
+Class A Thread-109 is now AWAKE
+Class A Thread-109 is DECrementing
+Class A Thread-109 EXITING!!!
+Class B Thread-104 is now AWAKE
+Class A Thread-116 is now AWAKE
+Class A Thread-116 is DECrementing
+Class A Thread-116 EXITING!!!
+Class B Thread-104 is DECrementing
+Class B Thread-104 EXITING!!!
+Class B Thread-110 is now AWAKE
+Class B Thread-110 is DECrementing
+Class B Thread-110 EXITING!!!
+Class B Thread-107 is now AWAKE
+Class B Thread-107 is DECrementing
+Class B Thread-107 EXITING!!!
+Class A Thread-113 is now AWAKE
+Class A Thread-113 is DECrementing
+Class A Thread-113 EXITING!!!
+Class D Thread-106 is now AWAKE
+Class D Thread-106 is DECrementing
+Class D Thread-106 EXITING!!!
+Class A Thread-115 is now AWAKE
+Class A Thread-115 is DECrementing
+Class A Thread-115 EXITING!!!
+Class C Thread-105 is now AWAKE
+Class C Thread-105 is DECrementing
+Class C Thread-105 EXITING!!!
+Class D Thread-118 is now AWAKE
+Class D Thread-118 is DECrementing
+Class D Thread-118 EXITING!!!
+Class C Thread-102 is now AWAKE
+Class C Thread-102 is DECrementing
+Class C Thread-102 EXITING!!!
+Class B Thread-108 is now AWAKE
+Class B Thread-108 is DECrementing
+Class B Thread-108 EXITING!!!
+Class A Thread-101 is now AWAKE
+Class A Thread-101 is DECrementing
+Class A Thread-101 EXITING!!!
+Class B Thread-114 is now AWAKE
+Class B Thread-114 is DECrementing
+Class B Thread-114 EXITING!!!
+Class A Thread-103 is now AWAKE
+Class A Thread-103 is DECrementing
+Class A Thread-103 EXITING!!!
+
+
+Part #3
+Please enter a path to an input file: in2.txt
+Process Thread-121 is starting.
+Process Thread-126 is starting.
+Process Thread-122 is starting.
+Process Thread-124 is starting.
+Process Thread-127 is starting.
+Process Thread-120 is starting.
+Process Thread-128 is starting.
+Process Thread-129 is starting.
+Process Thread-130 is starting.
+Process Thread-123 is starting.
+Process Thread-125 is starting.
+Process Thread-125 has value of -21
+Process Thread-125 is obtaining Mutual Exclusion
+Process Thread-125 is releasing Mutual Exclusion
+Process Thread-125 COMPLETE
+Process Thread-122 has value of -106
+Process Thread-122 is obtaining Mutual Exclusion
+Process Thread-122 is releasing Mutual Exclusion
+Process Thread-122 COMPLETE
+Process Thread-128 has value of 24
+Process Thread-128 is obtaining Mutual Exclusion
+Process Thread-128 is releasing Mutual Exclusion
+Process Thread-128 COMPLETE
+Process Thread-129 has value of -26
+Process Thread-129 is obtaining Mutual Exclusion
+Process Thread-129 is releasing Mutual Exclusion
+Process Thread-129 COMPLETE
+Process Thread-130 has value of 34
+Process Thread-130 is obtaining Mutual Exclusion
+Process Thread-130 is releasing Mutual Exclusion
+Process Thread-130 COMPLETE
+Process Thread-126 has value of -82
+Process Thread-126 is obtaining Mutual Exclusion
+Process Thread-126 is releasing Mutual Exclusion
+Process Thread-126 COMPLETE
+Process Thread-121 has value of 143
+Process Thread-121 is obtaining Mutual Exclusion
+Process Thread-121 is releasing Mutual Exclusion
+Process Thread-121 COMPLETE
+Process Thread-123 has value of 1
+Process Thread-123 is obtaining Mutual Exclusion
+Process Thread-123 is releasing Mutual Exclusion
+Process Thread-127 has value of 11
+Process Thread-123 COMPLETE
+Process Thread-127 is obtaining Mutual Exclusion
+Process Thread-127 is releasing Mutual Exclusion
+Process Thread-127 COMPLETE
+Process Thread-124 has value of -80
+Process Thread-124 is obtaining Mutual Exclusion
+Process Thread-124 is releasing Mutual Exclusion
+Process Thread-124 COMPLETE
+Process Thread-120 has value of 130
+Process Thread-120 is obtaining Mutual Exclusion
+Process Thread-120 is releasing Mutual Exclusion
+Process Thread-120 COMPLETE
+FINAL Counter value is 28
